@@ -9,8 +9,8 @@ parent_state: "sikkim"
 reporting_to: "Revenue Department, Govt of Sikkim"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://mangan.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://mangan.nic.in"
     urgency_default: "normal"

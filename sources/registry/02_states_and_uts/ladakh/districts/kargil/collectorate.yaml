@@ -9,8 +9,8 @@ parent_state: "ladakh"
 reporting_to: "Revenue Department, Govt of Ladakh"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://kargil.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://kargil.nic.in"
     urgency_default: "normal"

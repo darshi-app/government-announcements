@@ -9,8 +9,8 @@ parent_state: "madhya_pradesh"
 reporting_to: "Revenue Department, Govt of Madhya Pradesh"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://mauganj.nic.in/en"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://mauganj.nic.in/en"
     urgency_default: "normal"

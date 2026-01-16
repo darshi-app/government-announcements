@@ -9,8 +9,8 @@ parent_state: "uttarakhand"
 reporting_to: "Revenue Department, Govt of Uttarakhand"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://rudraprayag.gov.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://rudraprayag.gov.in"
     urgency_default: "normal"

@@ -9,8 +9,8 @@ parent_state: "tamil_nadu"
 reporting_to: "Revenue Department, Govt of Tamil Nadu"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://viluppuram.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://viluppuram.nic.in"
     urgency_default: "normal"

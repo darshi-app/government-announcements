@@ -9,8 +9,8 @@ parent_state: "kerala"
 reporting_to: "Revenue Department, Govt of Kerala"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://wayanad.gov.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://wayanad.gov.in"
     urgency_default: "normal"

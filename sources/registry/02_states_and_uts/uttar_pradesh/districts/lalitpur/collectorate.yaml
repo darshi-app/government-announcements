@@ -9,8 +9,8 @@ parent_state: "uttar_pradesh"
 reporting_to: "Revenue Department, Govt of Uttar Pradesh"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://lalitpur.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://lalitpur.nic.in"
     urgency_default: "normal"

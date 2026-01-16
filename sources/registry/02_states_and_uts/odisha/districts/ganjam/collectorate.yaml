@@ -9,8 +9,8 @@ parent_state: "odisha"
 reporting_to: "Revenue Department, Govt of Odisha"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://ganjam.odisha.gov.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://ganjam.odisha.gov.in"
     urgency_default: "normal"

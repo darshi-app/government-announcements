@@ -9,8 +9,8 @@ parent_state: "telangana"
 reporting_to: "Revenue Department, Govt of Telangana"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://wanaparthy.telangana.gov.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://wanaparthy.telangana.gov.in"
     urgency_default: "normal"

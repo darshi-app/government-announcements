@@ -9,8 +9,8 @@ parent_state: "maharashtra"
 reporting_to: "Revenue Department, Govt of Maharashtra"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://hingoli.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://hingoli.nic.in"
     urgency_default: "normal"

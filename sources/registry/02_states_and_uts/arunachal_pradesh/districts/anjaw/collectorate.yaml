@@ -9,8 +9,8 @@ parent_state: "arunachal_pradesh"
 reporting_to: "Revenue Department, Govt of Arunachal Pradesh"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://anjaw.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://anjaw.nic.in"
     urgency_default: "normal"

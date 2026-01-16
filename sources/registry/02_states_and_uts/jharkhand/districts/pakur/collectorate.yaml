@@ -9,8 +9,8 @@ parent_state: "jharkhand"
 reporting_to: "Revenue Department, Govt of Jharkhand"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://pakur.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://pakur.nic.in"
     urgency_default: "normal"

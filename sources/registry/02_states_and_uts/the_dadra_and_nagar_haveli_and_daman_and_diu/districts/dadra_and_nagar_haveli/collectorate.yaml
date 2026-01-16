@@ -9,8 +9,8 @@ parent_state: "the_dadra_and_nagar_haveli_and_daman_and_diu"
 reporting_to: "Revenue Department, Govt of The Dadra And Nagar Haveli And Daman And Diu"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://dnh.gov.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://dnh.gov.in"
     urgency_default: "normal"

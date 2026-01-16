@@ -9,8 +9,8 @@ parent_state: "meghalaya"
 reporting_to: "Revenue Department, Govt of Meghalaya"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://eastgarohills.gov.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://eastgarohills.gov.in"
     urgency_default: "normal"

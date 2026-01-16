@@ -9,8 +9,8 @@ parent_state: "gujarat"
 reporting_to: "Revenue Department, Govt of Gujarat"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://tapi.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://tapi.nic.in"
     urgency_default: "normal"

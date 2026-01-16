@@ -9,8 +9,8 @@ parent_state: "goa"
 reporting_to: "Revenue Department, Govt of Goa"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://southgoa.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://southgoa.nic.in"
     urgency_default: "normal"

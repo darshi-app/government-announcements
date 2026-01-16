@@ -9,8 +9,8 @@ parent_state: "punjab"
 reporting_to: "Revenue Department, Govt of Punjab"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://pathankot.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://pathankot.nic.in"
     urgency_default: "normal"

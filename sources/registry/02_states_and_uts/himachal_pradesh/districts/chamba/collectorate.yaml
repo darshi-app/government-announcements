@@ -9,8 +9,8 @@ parent_state: "himachal_pradesh"
 reporting_to: "Revenue Department, Govt of Himachal Pradesh"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://hpchamba.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://hpchamba.nic.in"
     urgency_default: "normal"

@@ -9,8 +9,8 @@ parent_state: "karnataka"
 reporting_to: "Revenue Department, Govt of Karnataka"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://ballari.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://ballari.nic.in"
     urgency_default: "normal"

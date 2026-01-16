@@ -9,8 +9,8 @@ parent_state: "manipur"
 reporting_to: "Revenue Department, Govt of Manipur"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://tengnoupal.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://tengnoupal.nic.in"
     urgency_default: "normal"

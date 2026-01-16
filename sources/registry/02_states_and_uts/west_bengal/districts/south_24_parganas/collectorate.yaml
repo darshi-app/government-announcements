@@ -9,8 +9,8 @@ parent_state: "west_bengal"
 reporting_to: "Revenue Department, Govt of West Bengal"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://s24pgs.gov.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://s24pgs.gov.in"
     urgency_default: "normal"

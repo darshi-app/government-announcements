@@ -9,8 +9,8 @@ parent_state: "assam"
 reporting_to: "Revenue Department, Govt of Assam"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://jorhat.assam.gov.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://jorhat.assam.gov.in"
     urgency_default: "normal"

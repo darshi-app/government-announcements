@@ -9,8 +9,8 @@ parent_state: "tamil_nadu"
 reporting_to: "Revenue Department, Govt of Tamil Nadu"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://tirupathur.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://tirupathur.nic.in"
     urgency_default: "normal"

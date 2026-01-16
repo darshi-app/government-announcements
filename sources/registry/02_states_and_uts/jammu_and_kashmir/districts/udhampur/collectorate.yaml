@@ -9,8 +9,8 @@ parent_state: "jammu_and_kashmir"
 reporting_to: "Revenue Department, Govt of Jammu And Kashmir"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://udhampur.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://udhampur.nic.in"
     urgency_default: "normal"

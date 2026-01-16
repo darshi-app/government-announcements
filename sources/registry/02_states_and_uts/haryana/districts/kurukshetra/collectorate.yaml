@@ -9,8 +9,8 @@ parent_state: "haryana"
 reporting_to: "Revenue Department, Govt of Haryana"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://kurukshetra.gov.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://kurukshetra.gov.in"
     urgency_default: "normal"

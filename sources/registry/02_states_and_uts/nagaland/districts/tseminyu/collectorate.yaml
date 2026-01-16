@@ -9,8 +9,8 @@ parent_state: "nagaland"
 reporting_to: "Revenue Department, Govt of Nagaland"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://tseminyu.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://tseminyu.nic.in"
     urgency_default: "normal"

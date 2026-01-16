@@ -9,8 +9,8 @@ parent_state: "bihar"
 reporting_to: "Revenue Department, Govt of Bihar"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://arwal.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://arwal.nic.in"
     urgency_default: "normal"

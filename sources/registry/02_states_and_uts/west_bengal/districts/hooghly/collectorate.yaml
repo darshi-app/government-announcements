@@ -9,8 +9,8 @@ parent_state: "west_bengal"
 reporting_to: "Revenue Department, Govt of West Bengal"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://hooghly.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://hooghly.nic.in"
     urgency_default: "normal"

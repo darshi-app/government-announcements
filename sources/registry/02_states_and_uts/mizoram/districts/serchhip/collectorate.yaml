@@ -9,8 +9,8 @@ parent_state: "mizoram"
 reporting_to: "Revenue Department, Govt of Mizoram"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://serchhip.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://serchhip.nic.in"
     urgency_default: "normal"

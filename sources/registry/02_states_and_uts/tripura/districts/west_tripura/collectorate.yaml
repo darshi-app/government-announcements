@@ -9,8 +9,8 @@ parent_state: "tripura"
 reporting_to: "Revenue Department, Govt of Tripura"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://westtripura.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://westtripura.nic.in"
     urgency_default: "normal"

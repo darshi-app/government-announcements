@@ -9,8 +9,8 @@ parent_state: "lakshadweep"
 reporting_to: "Revenue Department, Govt of Lakshadweep"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://lakshadweep.gov.in/district-panchayath"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://lakshadweep.gov.in/district-panchayath"
     urgency_default: "normal"

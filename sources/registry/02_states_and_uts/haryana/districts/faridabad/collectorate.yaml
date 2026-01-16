@@ -9,8 +9,8 @@ parent_state: "haryana"
 reporting_to: "Revenue Department, Govt of Haryana"
 
 # === SCRAPING CONFIG ===
-url: "" # Placeholder
+url: "https://faridabad.nic.in"
 sections_to_watch:
   - title: "Notices/Announcements"
-    url: ""
+    url: "https://faridabad.nic.in"
     urgency_default: "normal"
