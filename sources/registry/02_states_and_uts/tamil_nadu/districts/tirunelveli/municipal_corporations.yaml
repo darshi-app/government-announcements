@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-33-253011"
+name: "Tirunelveli"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "tirunelveli"
+parent_state: "tamil_nadu"
+
+# === LOCATION ===
+pincode: [627002]
+

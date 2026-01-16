@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-18-249864"
+name: "Marigaon"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "marigaon"
+parent_state: "assam"
+
+# === LOCATION ===
+pincode: [782125]
+

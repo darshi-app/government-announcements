@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-8-248765"
+name: "Balotra"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "balotra"
+parent_state: "rajasthan"
+
+# === LOCATION ===
+pincode: [344022, 305921, 313203, 344024]
+

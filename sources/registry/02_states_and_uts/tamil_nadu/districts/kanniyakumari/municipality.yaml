@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-33-253091"
+name: "Kanniyakumari"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "kanniyakumari"
+parent_state: "tamil_nadu"
+
+# === LOCATION ===
+pincode: [629702]
+

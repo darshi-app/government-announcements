@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-8-248778"
+name: "Pali"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "pali"
+parent_state: "rajasthan"
+
+# === LOCATION ===
+pincode: [306401, 305921, 313203]
+

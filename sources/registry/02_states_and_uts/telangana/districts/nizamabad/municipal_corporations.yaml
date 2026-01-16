@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-36-248091"
+name: "Nizamabad"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "nizamabad"
+parent_state: "telangana"
+
+# === LOCATION ===
+pincode: [503003]
+

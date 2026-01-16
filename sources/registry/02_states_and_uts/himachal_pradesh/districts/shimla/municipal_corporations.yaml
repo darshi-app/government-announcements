@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-2-248248"
+name: "Shimla"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "shimla"
+parent_state: "himachal_pradesh"
+
+# === LOCATION ===
+pincode: [171001]
+

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-21-253100"
+name: "Sambalpur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "sambalpur"
+parent_state: "odisha"
+
+# === LOCATION ===
+pincode: [768019, 768018, 768003, 768002, 768001, 768017, 768020, 768004]
+

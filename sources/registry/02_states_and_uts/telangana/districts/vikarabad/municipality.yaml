@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-36-248100"
+name: "Vikarabad"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "vikarabad"
+parent_state: "telangana"
+
+# === LOCATION ===
+pincode: [501101]
+

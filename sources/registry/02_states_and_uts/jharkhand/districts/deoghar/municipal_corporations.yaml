@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-20-248049"
+name: "Deoghar"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "deoghar"
+parent_state: "jharkhand"
+
+# === LOCATION ===
+pincode: [815351, 814112, 814115]
+

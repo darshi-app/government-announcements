@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-10-249600"
+name: "Darbhanga"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "darbhanga"
+parent_state: "bihar"
+
+# === LOCATION ===
+pincode: [846008, 846001, 846004]
+

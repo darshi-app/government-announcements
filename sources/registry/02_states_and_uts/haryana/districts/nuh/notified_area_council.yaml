@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248581"
+name: "Nuh"
+type: "notified_area_council"
+
+# === HIERARCHY ===
+parent_district: "nuh"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [122107]
+

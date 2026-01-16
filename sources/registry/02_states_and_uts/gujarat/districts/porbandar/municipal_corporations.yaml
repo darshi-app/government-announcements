@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-24-251138"
+name: "Porbandar"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "porbandar"
+parent_state: "gujarat"
+
+# === LOCATION ===
+pincode: [360575]
+

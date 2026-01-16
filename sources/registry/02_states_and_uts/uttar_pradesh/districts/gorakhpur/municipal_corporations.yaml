@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-249444"
+name: "Gorakhpur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "gorakhpur"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [273001]
+

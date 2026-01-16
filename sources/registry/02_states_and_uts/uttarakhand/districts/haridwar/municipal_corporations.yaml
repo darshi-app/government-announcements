@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-5-248485"
+name: "Haridwar"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "haridwar"
+parent_state: "uttarakhand"
+
+# === LOCATION ===
+pincode: [249401]
+

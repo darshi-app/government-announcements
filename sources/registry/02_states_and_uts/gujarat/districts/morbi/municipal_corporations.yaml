@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-24-251118"
+name: "Morbi"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "morbi"
+parent_state: "gujarat"
+
+# === LOCATION ===
+pincode: [363643, 363642, 363641]
+

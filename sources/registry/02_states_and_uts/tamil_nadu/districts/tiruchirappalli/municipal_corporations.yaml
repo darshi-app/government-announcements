@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-33-252749"
+name: "Tiruchirappalli"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "tiruchirappalli"
+parent_state: "tamil_nadu"
+
+# === LOCATION ===
+pincode: [620027, 620001, 620002, 620020, 620022, 620003, 620026, 620005, 620023, 620017, 620024, 620006, 620008, 620004, 620014, 620018]
+

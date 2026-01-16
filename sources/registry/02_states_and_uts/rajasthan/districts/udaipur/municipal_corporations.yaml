@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-8-248822"
+name: "Udaipur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "udaipur"
+parent_state: "rajasthan"
+
+# === LOCATION ===
+pincode: [313002, 313331, 313003, 313206, 313604, 313205, 313301, 313027, 313001]
+

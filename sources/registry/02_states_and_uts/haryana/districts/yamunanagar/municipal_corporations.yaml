@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248500"
+name: "Yamunanagar"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "yamunanagar"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [135001]
+

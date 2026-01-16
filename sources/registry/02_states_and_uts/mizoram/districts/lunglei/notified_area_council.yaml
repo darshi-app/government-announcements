@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-15-249780"
+name: "Lunglei"
+type: "notified_area_council"
+
+# === HIERARCHY ===
+parent_district: "lunglei"
+parent_state: "mizoram"
+
+# === LOCATION ===
+pincode: [796701]
+

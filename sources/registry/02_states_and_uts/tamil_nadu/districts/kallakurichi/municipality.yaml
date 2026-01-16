@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-33-252451"
+name: "Kallakurichi"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "kallakurichi"
+parent_state: "tamil_nadu"
+
+# === LOCATION ===
+pincode: [606202]
+

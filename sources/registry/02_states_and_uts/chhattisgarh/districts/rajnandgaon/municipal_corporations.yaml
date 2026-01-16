@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-22-250629"
+name: "Rajnandgaon"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "rajnandgaon"
+parent_state: "chhattisgarh"
+
+# === LOCATION ===
+pincode: [491441]
+

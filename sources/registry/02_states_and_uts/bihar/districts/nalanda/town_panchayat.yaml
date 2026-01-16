@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-10-299454"
+name: "Nalanda"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "nalanda"
+parent_state: "bihar"
+
+# === LOCATION ===
+pincode: [803111]
+

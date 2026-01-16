@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248550"
+name: "Bhiwani"
+type: "notified_area_council"
+
+# === HIERARCHY ===
+parent_district: "bhiwani"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [127021]
+

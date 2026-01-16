@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-32-252260"
+name: "Thiruvananthapuram"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "thiruvananthapuram"
+parent_state: "kerala"
+
+# === LOCATION ===
+pincode: [695010, 695030, 695033, 695521, 695583, 695001, 695004, 695006, 695007, 695011, 695017, 695020, 695022, 695025, 695036, 682001, 695009, 695034, 695035, 695015, 695016, 695023, 695024, 695038, 695043, 695040, 695008, 695021, 695029, 695099, 695581, 695585]
+

@@ -1,0 +1,9 @@
+# === IDENTITY ===
+id: "state-jharkhand"
+name: "Jharkhand"
+type: "state_government"
+
+# === HIERARCHY ===
+parent_union: "india"
+capital: ""
+

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-15-249762"
+name: "Mamit"
+type: "notified_area_council"
+
+# === HIERARCHY ===
+parent_district: "mamit"
+parent_state: "mizoram"
+
+# === LOCATION ===
+pincode: [796441]
+

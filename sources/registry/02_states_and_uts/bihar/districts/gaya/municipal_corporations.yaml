@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-10-249680"
+name: "Gaya"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "gaya"
+parent_state: "bihar"
+
+# === LOCATION ===
+pincode: [823001]
+

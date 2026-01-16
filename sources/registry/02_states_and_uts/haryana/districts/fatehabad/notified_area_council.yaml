@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248538"
+name: "Fatehabad"
+type: "notified_area_council"
+
+# === HIERARCHY ===
+parent_district: "fatehabad"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [125050]
+

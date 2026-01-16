@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-12-249698"
+name: "Tawang"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "tawang"
+parent_state: "arunachal_pradesh"
+
+# === LOCATION ===
+pincode: [790104, 790105, 790106]
+

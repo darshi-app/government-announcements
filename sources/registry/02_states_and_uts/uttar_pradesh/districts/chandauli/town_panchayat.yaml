@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-249520"
+name: "Chandauli"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "chandauli"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [221110, 232104]
+

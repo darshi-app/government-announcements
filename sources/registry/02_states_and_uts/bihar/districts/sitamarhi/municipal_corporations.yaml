@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-10-249575"
+name: "Sitamarhi"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "sitamarhi"
+parent_state: "bihar"
+
+# === LOCATION ===
+pincode: [843302]
+

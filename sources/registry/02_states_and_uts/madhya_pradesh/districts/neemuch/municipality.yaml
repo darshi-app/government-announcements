@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-23-250823"
+name: "Neemuch"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "neemuch"
+parent_state: "madhya_pradesh"
+
+# === LOCATION ===
+pincode: [458441]
+

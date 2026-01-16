@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-29-251985"
+name: "Kolar"
+type: "city_municipal_council"
+
+# === HIERARCHY ===
+parent_district: "kolar"
+parent_state: "karnataka"
+
+# === LOCATION ===
+pincode: [563101]
+

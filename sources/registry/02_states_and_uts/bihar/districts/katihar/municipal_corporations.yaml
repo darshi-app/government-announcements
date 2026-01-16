@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-10-249595"
+name: "Katihar"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "katihar"
+parent_state: "bihar"
+
+# === LOCATION ===
+pincode: [854106, 854103, 854109, 854107, 854105]
+

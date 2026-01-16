@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-27-251362"
+name: "Nagpur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "nagpur"
+parent_state: "maharashtra"
+
+# === LOCATION ===
+pincode: [440029, 440001]
+

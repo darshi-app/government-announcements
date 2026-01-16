@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-21-baleshwar-coll"
+name: "Baleshwar District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "odisha"
+reporting_to: "Revenue Department, Govt of Odisha"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

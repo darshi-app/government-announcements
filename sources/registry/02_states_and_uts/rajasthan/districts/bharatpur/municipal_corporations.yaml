@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-8-248708"
+name: "Bharatpur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "bharatpur"
+parent_state: "rajasthan"
+
+# === LOCATION ===
+pincode: [321001]
+

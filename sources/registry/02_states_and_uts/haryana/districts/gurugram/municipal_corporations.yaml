@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248576"
+name: "Gurugram"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "gurugram"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [122001, 122101, 122003]
+

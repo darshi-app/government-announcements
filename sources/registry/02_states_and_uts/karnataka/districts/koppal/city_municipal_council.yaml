@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-29-251882"
+name: "Koppal"
+type: "city_municipal_council"
+
+# === HIERARCHY ===
+parent_district: "koppal"
+parent_state: "karnataka"
+
+# === LOCATION ===
+pincode: [583231]
+

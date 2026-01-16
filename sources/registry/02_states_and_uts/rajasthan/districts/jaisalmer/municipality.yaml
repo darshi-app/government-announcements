@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-8-248763"
+name: "Jaisalmer"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "jaisalmer"
+parent_state: "rajasthan"
+
+# === LOCATION ===
+pincode: [305921, 345001, 313203]
+

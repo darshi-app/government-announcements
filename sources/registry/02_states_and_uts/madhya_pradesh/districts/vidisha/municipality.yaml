@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-23-250944"
+name: "Vidisha"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "vidisha"
+parent_state: "madhya_pradesh"
+
+# === LOCATION ===
+pincode: [464001]
+

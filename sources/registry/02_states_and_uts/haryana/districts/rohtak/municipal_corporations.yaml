@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248557"
+name: "Rohtak"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "rohtak"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [124001]
+

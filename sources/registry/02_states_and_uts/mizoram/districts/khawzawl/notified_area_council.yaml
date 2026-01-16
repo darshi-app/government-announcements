@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-15-249772"
+name: "Khawzawl"
+type: "notified_area_council"
+
+# === HIERARCHY ===
+parent_district: "khawzawl"
+parent_state: "mizoram"
+
+# === LOCATION ===
+pincode: [796310]
+

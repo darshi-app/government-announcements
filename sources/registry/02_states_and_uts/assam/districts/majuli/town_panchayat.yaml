@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-18-277149"
+name: "Majuli"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "majuli"
+parent_state: "assam"
+
+# === LOCATION ===
+pincode: [785104, 785106]
+

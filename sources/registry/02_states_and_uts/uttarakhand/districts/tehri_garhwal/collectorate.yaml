@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-5-tehri_garhwal-coll"
+name: "Tehri Garhwal District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "uttarakhand"
+reporting_to: "Revenue Department, Govt of Uttarakhand"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

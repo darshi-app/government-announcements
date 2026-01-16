@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-33-252621"
+name: "Tiruppur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "tiruppur"
+parent_state: "tamil_nadu"
+
+# === LOCATION ===
+pincode: [641601]
+

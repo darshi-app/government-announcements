@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-10-249619"
+name: "Samastipur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "samastipur"
+parent_state: "bihar"
+
+# === LOCATION ===
+pincode: [848101]
+

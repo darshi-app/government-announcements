@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-5-248451"
+name: "Champawat"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "champawat"
+parent_state: "uttarakhand"
+
+# === LOCATION ===
+pincode: [262523]
+

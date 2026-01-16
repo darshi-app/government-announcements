@@ -1,0 +1,102 @@
+/darshi-gov-platform
+│
+├── 📂 sources/
+│   │
+│   ├── 📂 registry/  <-- THE CONFIGURATION LAYER (YAMLs)
+│   │   │
+│   │   ├── 📂 01_union_of_india/          # The Centre (New Delhi)
+│   │   │   ├── 📂 apex_executive/
+│   │   │   │   ├── president_secretariat.yaml
+│   │   │   │   ├── pmo.yaml               # Prime Minister's Office
+│   │   │   │   └── cabinet_secretariat.yaml
+│   │   │   │
+│   │   │   ├── 📂 legislative/
+│   │   │   │   ├── parliament_loksabha.yaml
+│   │   │   │   ├── parliament_rajyasabha.yaml
+│   │   │   │   └── gazette_of_india.yaml  # The Official Source of Law
+│   │   │   │
+│   │   │   ├── 📂 judiciary_apex/
+│   │   │   │   ├── supreme_court.yaml
+│   │   │   │   └── national_green_tribunal.yaml
+│   │   │   │
+│   │   │   ├── 📂 constitutional_bodies/  # Autonomous
+│   │   │   │   ├── eci.yaml               # Election Commission
+│   │   │   │   ├── cag.yaml               # Comptroller Auditor Gen
+│   │   │   │   └── upsc.yaml
+│   │   │   │
+│   │   │   ├── 📂 ministries/             # The Standard Executive
+│   │   │   │   ├── mha.yaml               # Home Affairs
+│   │   │   │   ├── mohfw.yaml             # Health
+│   │   │   │   ├── mod.yaml               # Defence
+│   │   │   │   └── ... (All 50+ Ministries)
+│   │   │   │
+│   │   │   └── 📂 strategic_departments/  # Direct PMO Control
+│   │   │       ├── isro_dos.yaml          # Dept of Space
+│   │   │       ├── dae.yaml               # Atomic Energy
+│   │   │       └── uidai.yaml             # Aadhaar
+│   │   │
+│   │   ├── 📂 02_states_and_uts/          # The Federation
+│   │   │   │
+│   │   │   ├── 📂 maharashtra/            # STATE (Full Legislature)
+│   │   │   │   ├── _state_meta.yaml       # CM Office, Main Portal
+│   │   │   │   ├── 📂 state_depts/        # Applies to whole state
+│   │   │   │   │   ├── education_board.yaml
+│   │   │   │   │   ├── msedcl.yaml        # Electricity Board (PSU)
+│   │   │   │   │   └── msrtc.yaml         # Transport (ST Bus)
+│   │   │   │   │
+│   │   │   │   └── 📂 districts/          # THE "BUCKET" LAYER
+│   │   │   │       ├── 📂 pune/           # The Atomic Unit
+│   │   │   │       │   ├── collectorate.yaml        # DM/Collector
+│   │   │   │       │   ├── zilla_parishad.yaml      # Rural Head
+│   │   │   │       │   ├── pmc.yaml                 # Pune Municipal Corp
+│   │   │   │       │   ├── pcmc.yaml                # Pimpri Chinchwad MC
+│   │   │   │       │   ├── cantt_pune.yaml          # Pune Cantonment
+│   │   │   │       │   ├── cantt_kirkee.yaml        # Kirkee Cantonment
+│   │   │   │       │   ├── township_magarpatta.yaml # Private Township
+│   │   │   │       │   ├── police_city.yaml         # Pune City Police
+│   │   │   │       │   ├── police_rural.yaml        # Pune Rural Police
+│   │   │   │       │   └── parser_pmc_tenders.py    # <--- CUSTOM SCRIPT
+│   │   │   │       │
+│   │   │   │       └── 📂 mumbai_city/
+│   │   │   │           ├── collectorate.yaml
+│   │   │   │           ├── bmc.yaml                 # Brihanmumbai Corp
+│   │   │   │           ├── port_trust_mbpt.yaml     # Mumbai Port Trust
+│   │   │   │           └── police_traffic.yaml
+│   │   │   │
+│   │   │   ├── 📂 jharkhand/
+│   │   │   │   ├── _state_meta.yaml
+│   │   │   │   └── 📂 districts/
+│   │   │   │       └── 📂 east_singhbhum/
+│   │   │   │           ├── collectorate.yaml
+│   │   │   │           └── ind_township_jusco.yaml  # Jamshedpur (Tata)
+│   │   │   │
+│   │   │   ├── 📂 meghalaya/
+│   │   │   │   ├── _state_meta.yaml
+│   │   │   │   └── 📂 autonomous_councils/ # Sixth Schedule Areas
+│   │   │   │       ├── garo_hills_adc.yaml
+│   │   │   │       └── khasi_hills_adc.yaml
+│   │   │   │
+│   │   │   └── 📂 ladakh/                 # UT (Direct Rule)
+│   │   │       ├── _lg_office.yaml        # Lt. Governor
+│   │   │       └── 📂 districts/
+│   │   │           ├── leh_council.yaml   # Hill Council (Special Status)
+│   │   │           └── kargil_council.yaml
+│   │   │
+│   │   └── 📂 03_special_economic_zones/  # Extra-Territorial/Central
+│   │       ├── gift_city_ifsc.yaml
+│   │       └── sez_noida.yaml
+│   │
+│   └── 📂 scrapers/  <-- SHARED LOGIC
+│       ├── core_engine.py
+│       ├── adapters/
+│       │   ├── nic_standard.py    # For standard District sites
+│       │   └── urban_portal.py    # For standard Municipal sites
+│       └── utils/
+│           └── pdf_ocr.py
+│
+├── 📂 data/          <-- LOCAL STORAGE (Cache)
+│   ├── raw_pdfs/
+│   └── processing_queue/
+│
+├── main.py
+└── requirements.txt

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-22-250598"
+name: "Korba"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "korba"
+parent_state: "chhattisgarh"
+
+# === LOCATION ===
+pincode: [495677]
+

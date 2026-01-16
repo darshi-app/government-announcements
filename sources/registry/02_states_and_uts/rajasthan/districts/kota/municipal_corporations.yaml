@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-8-303090"
+name: "Kota"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "kota"
+parent_state: "rajasthan"
+
+# === LOCATION ===
+pincode: [324009]
+

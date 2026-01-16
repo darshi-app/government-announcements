@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-249512"
+name: "Ghazipur"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "ghazipur"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [233001]
+

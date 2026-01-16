@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-20-250326"
+name: "Latehar"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "latehar"
+parent_state: "jharkhand"
+
+# === LOCATION ===
+pincode: [829206]
+

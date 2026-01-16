@@ -1,0 +1,9 @@
+# === IDENTITY ===
+id: "state-lakshadweep"
+name: "Lakshadweep"
+type: "state_government"
+
+# === HIERARCHY ===
+parent_union: "india"
+capital: ""
+

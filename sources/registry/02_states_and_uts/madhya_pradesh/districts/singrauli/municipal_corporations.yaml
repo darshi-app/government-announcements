@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-23-248066"
+name: "Singrauli"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "singrauli"
+parent_state: "madhya_pradesh"
+
+# === LOCATION ===
+pincode: [486889]
+

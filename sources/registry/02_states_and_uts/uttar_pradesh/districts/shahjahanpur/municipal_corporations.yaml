@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-297802"
+name: "Shahjahanpur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "shahjahanpur"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [242001]
+

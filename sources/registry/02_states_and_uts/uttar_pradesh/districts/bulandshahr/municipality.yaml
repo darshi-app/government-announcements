@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-249005"
+name: "Bulandshahr"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "bulandshahr"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [203001]
+

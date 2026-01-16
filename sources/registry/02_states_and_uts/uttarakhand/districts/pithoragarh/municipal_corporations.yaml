@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-5-248446"
+name: "Pithoragarh"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "pithoragarh"
+parent_state: "uttarakhand"
+
+# === LOCATION ===
+pincode: [262501]
+

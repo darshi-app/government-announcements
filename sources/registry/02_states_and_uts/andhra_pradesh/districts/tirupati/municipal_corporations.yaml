@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-28-248121"
+name: "Tirupati"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "tirupati"
+parent_state: "andhra_pradesh"
+
+# === LOCATION ===
+pincode: [517501]
+

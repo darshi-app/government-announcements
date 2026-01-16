@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-27-251577"
+name: "Solapur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "solapur"
+parent_state: "maharashtra"
+
+# === LOCATION ===
+pincode: [413224, 413008, 413006, 413002, 413003, 413005, 413007, 413001, 413004]
+

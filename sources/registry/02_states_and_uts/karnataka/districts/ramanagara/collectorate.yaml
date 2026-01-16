@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-29-ramanagara-coll"
+name: "Ramanagara District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "karnataka"
+reporting_to: "Revenue Department, Govt of Karnataka"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-3-248347"
+name: "Moga"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "moga"
+parent_state: "punjab"
+
+# === LOCATION ===
+pincode: [142001]
+

@@ -1,0 +1,9 @@
+# === IDENTITY ===
+id: "state-manipur"
+name: "Manipur"
+type: "state_government"
+
+# === HIERARCHY ===
+parent_union: "india"
+capital: ""
+

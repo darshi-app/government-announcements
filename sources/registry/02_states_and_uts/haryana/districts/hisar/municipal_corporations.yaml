@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248546"
+name: "Hisar"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "hisar"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [125001]
+

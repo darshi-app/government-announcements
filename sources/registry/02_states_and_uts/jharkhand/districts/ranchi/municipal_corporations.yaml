@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-20-250413"
+name: "Ranchi"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "ranchi"
+parent_state: "jharkhand"
+
+# === LOCATION ===
+pincode: [834001]
+

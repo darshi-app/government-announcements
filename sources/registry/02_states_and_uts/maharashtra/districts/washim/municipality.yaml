@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-27-251319"
+name: "Washim"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "washim"
+parent_state: "maharashtra"
+
+# === LOCATION ===
+pincode: [444505]
+

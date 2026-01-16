@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-28-251700"
+name: "Srikakulam"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "srikakulam"
+parent_state: "andhra_pradesh"
+
+# === LOCATION ===
+pincode: [532001]
+

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-29-251955"
+name: "Udupi"
+type: "city_municipal_council"
+
+# === HIERARCHY ===
+parent_district: "udupi"
+parent_state: "karnataka"
+
+# === LOCATION ===
+pincode: [576111, 576101, 576121]
+

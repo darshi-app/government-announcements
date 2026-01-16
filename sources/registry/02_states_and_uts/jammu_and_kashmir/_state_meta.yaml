@@ -1,0 +1,9 @@
+# === IDENTITY ===
+id: "state-jammu_and_kashmir"
+name: "Jammu And Kashmir"
+type: "state_government"
+
+# === HIERARCHY ===
+parent_union: "india"
+capital: ""
+

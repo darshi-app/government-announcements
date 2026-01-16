@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-27-251442"
+name: "Nashik"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "nashik"
+parent_state: "maharashtra"
+
+# === LOCATION ===
+pincode: [422011, 422013, 422001, 422004, 422009, 422007, 422010, 422012, 422002, 422003, 422005, 422006, 422101]
+

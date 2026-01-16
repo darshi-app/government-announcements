@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-21-250501"
+name: "Cuttack"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "cuttack"
+parent_state: "odisha"
+
+# === LOCATION ===
+pincode: [753001, 752120]
+

@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-18-tamulpur-coll"
+name: "Tamulpur District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "assam"
+reporting_to: "Revenue Department, Govt of Assam"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

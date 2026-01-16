@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-5-248447"
+name: "Bageshwar"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "bageshwar"
+parent_state: "uttarakhand"
+
+# === LOCATION ===
+pincode: [263642, 263619]
+

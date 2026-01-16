@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-33-ranipet-coll"
+name: "Ranipet District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "tamil_nadu"
+reporting_to: "Revenue Department, Govt of Tamil Nadu"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

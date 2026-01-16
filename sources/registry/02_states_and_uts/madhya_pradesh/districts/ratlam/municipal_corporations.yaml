@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-23-250843"
+name: "Ratlam"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "ratlam"
+parent_state: "madhya_pradesh"
+
+# === LOCATION ===
+pincode: [457001]
+

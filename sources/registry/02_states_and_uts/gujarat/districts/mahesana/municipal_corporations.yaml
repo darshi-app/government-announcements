@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-24-251068"
+name: "Mahesana"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "mahesana"
+parent_state: "gujarat"
+
+# === LOCATION ===
+pincode: [384001]
+

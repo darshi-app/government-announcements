@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-24-251114"
+name: "Surendranagar"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "surendranagar"
+parent_state: "gujarat"
+
+# === LOCATION ===
+pincode: [363001]
+

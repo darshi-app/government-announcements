@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-29-252012"
+name: "Hassan"
+type: "city_municipal_council"
+
+# === HIERARCHY ===
+parent_district: "hassan"
+parent_state: "karnataka"
+
+# === LOCATION ===
+pincode: [573201]
+

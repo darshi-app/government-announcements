@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-32-252176"
+name: "Palakkad"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "palakkad"
+parent_state: "kerala"
+
+# === LOCATION ===
+pincode: [678001, 683104, 682304, 682301]
+

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-8-248818"
+name: "Rajsamand"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "rajsamand"
+parent_state: "rajasthan"
+
+# === LOCATION ===
+pincode: [313203, 313324, 305921]
+

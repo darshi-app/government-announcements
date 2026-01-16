@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-28-248122"
+name: "Chittoor"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "chittoor"
+parent_state: "andhra_pradesh"
+
+# === LOCATION ===
+pincode: [517001, 517002]
+

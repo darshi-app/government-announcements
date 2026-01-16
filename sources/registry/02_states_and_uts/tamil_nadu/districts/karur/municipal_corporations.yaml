@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-33-252725"
+name: "Karur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "karur"
+parent_state: "tamil_nadu"
+
+# === LOCATION ===
+pincode: [639001]
+

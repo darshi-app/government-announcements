@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-24-251163"
+name: "Botad"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "botad"
+parent_state: "gujarat"
+
+# === LOCATION ===
+pincode: [364710]
+

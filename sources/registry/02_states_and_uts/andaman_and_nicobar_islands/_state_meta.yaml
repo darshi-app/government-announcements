@@ -1,0 +1,9 @@
+# === IDENTITY ===
+id: "state-andaman_and_nicobar_islands"
+name: "Andaman And Nicobar Islands"
+type: "state_government"
+
+# === HIERARCHY ===
+parent_union: "india"
+capital: ""
+

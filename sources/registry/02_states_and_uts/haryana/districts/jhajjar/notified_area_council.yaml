@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248562"
+name: "Jhajjar"
+type: "notified_area_council"
+
+# === HIERARCHY ===
+parent_district: "jhajjar"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [124507]
+

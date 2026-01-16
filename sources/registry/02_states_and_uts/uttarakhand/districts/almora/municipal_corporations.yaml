@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-5-248449"
+name: "Almora"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "almora"
+parent_state: "uttarakhand"
+
+# === LOCATION ===
+pincode: [263601]
+

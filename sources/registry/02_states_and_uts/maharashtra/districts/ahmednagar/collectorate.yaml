@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-27-ahmednagar-coll"
+name: "Ahmednagar District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "maharashtra"
+reporting_to: "Revenue Department, Govt of Maharashtra"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

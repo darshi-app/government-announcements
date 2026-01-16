@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-27-251471"
+name: "Thane"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "thane"
+parent_state: "maharashtra"
+
+# === LOCATION ===
+pincode: [400610, 400603, 400604, 400602, 400605, 400606, 400615, 400607, 400608, 400612]
+

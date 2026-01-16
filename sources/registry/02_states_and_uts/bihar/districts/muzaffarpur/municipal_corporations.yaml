@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-10-249603"
+name: "Muzaffarpur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "muzaffarpur"
+parent_state: "bihar"
+
+# === LOCATION ===
+pincode: [842001]
+

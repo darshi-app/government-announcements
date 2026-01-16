@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-6-charki_dadri-coll"
+name: "Charki Dadri District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "haryana"
+reporting_to: "Revenue Department, Govt of Haryana"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-33-252381"
+name: "Vellore"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "vellore"
+parent_state: "tamil_nadu"
+
+# === LOCATION ===
+pincode: [632001, 632004, 632010, 632055, 632002, 632006, 632007, 632008, 632013, 632014, 632009, 632012]
+

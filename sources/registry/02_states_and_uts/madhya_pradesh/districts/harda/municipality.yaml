@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-23-250967"
+name: "Harda"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "harda"
+parent_state: "madhya_pradesh"
+
+# === LOCATION ===
+pincode: [461331]
+

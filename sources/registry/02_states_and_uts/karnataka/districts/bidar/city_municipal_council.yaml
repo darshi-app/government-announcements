@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-29-251867"
+name: "Bidar"
+type: "city_municipal_council"
+
+# === HIERARCHY ===
+parent_district: "bidar"
+parent_state: "karnataka"
+
+# === LOCATION ===
+pincode: [585401, 585404, 585403, 585444, 585402]
+

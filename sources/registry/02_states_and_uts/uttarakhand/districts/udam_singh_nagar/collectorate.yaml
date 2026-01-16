@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-5-udam_singh_nagar-coll"
+name: "Udam Singh Nagar District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "uttarakhand"
+reporting_to: "Revenue Department, Govt of Uttarakhand"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

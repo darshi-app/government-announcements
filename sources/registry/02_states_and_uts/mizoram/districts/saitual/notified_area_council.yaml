@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-15-249771"
+name: "Saitual"
+type: "notified_area_council"
+
+# === HIERARCHY ===
+parent_district: "saitual"
+parent_state: "mizoram"
+
+# === LOCATION ===
+pincode: [796261]
+

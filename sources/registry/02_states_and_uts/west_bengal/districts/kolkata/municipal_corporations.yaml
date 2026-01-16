@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-19-250299"
+name: "Kolkata"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "kolkata"
+parent_state: "west_bengal"
+
+# === LOCATION ===
+pincode: [700108, 700010, 700050, 700054, 700004, 700006, 700052, 700009, 700067, 700085, 700005, 700015, 700011, 700002, 700037, 700017, 700007, 700046, 700105, 700039, 700036, 700014]
+

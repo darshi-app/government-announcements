@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-23-250955"
+name: "Raisen"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "raisen"
+parent_state: "madhya_pradesh"
+
+# === LOCATION ===
+pincode: [464551]
+

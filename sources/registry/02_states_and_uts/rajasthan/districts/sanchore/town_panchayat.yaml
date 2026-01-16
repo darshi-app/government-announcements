@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-8-248769"
+name: "Sanchore"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "sanchore"
+parent_state: "rajasthan"
+
+# === LOCATION ===
+pincode: [328024, 343041, 328027, 313325]
+

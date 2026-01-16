@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-29-251863"
+name: "Yadgir"
+type: "city_municipal_council"
+
+# === HIERARCHY ===
+parent_district: "yadgir"
+parent_state: "karnataka"
+
+# === LOCATION ===
+pincode: [585201, 585202]
+

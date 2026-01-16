@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-8-sanchore-coll"
+name: "Sanchore District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "rajasthan"
+reporting_to: "Revenue Department, Govt of Rajasthan"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

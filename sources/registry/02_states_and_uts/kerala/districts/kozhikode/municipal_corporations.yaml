@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-32-252160"
+name: "Kozhikode"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "kozhikode"
+parent_state: "kerala"
+
+# === LOCATION ===
+pincode: [673001, 682001]
+

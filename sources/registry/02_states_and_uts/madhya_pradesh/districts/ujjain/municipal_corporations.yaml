@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-23-250851"
+name: "Ujjain"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "ujjain"
+parent_state: "madhya_pradesh"
+
+# === LOCATION ===
+pincode: [456001, 456010]
+

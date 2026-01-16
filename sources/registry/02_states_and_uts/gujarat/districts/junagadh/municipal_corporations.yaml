@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-24-251147"
+name: "Junagadh"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "junagadh"
+parent_state: "gujarat"
+
+# === LOCATION ===
+pincode: [362001]
+

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-27-251328"
+name: "Amravati"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "amravati"
+parent_state: "maharashtra"
+
+# === LOCATION ===
+pincode: [444606, 444602, 444604, 444603, 444605, 444607, 444601]
+

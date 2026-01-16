@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-24-251231"
+name: "Surat"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "surat"
+parent_state: "gujarat"
+
+# === LOCATION ===
+pincode: [395005, 395004, 395003, 395017, 394210, 394510, 395010, 395011, 395009, 395002, 394516, 395007, 395006, 394105, 395008, 394221, 395023, 395012, 394550, 394101, 394107]
+

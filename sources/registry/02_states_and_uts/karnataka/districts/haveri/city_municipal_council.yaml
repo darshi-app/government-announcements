@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-29-251916"
+name: "Haveri"
+type: "city_municipal_council"
+
+# === HIERARCHY ===
+parent_district: "haveri"
+parent_state: "karnataka"
+
+# === LOCATION ===
+pincode: [581110]
+

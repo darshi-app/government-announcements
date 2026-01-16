@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-36-248083"
+name: "Adilabad"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "adilabad"
+parent_state: "telangana"
+
+# === LOCATION ===
+pincode: [504001]
+

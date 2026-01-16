@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-22-250594"
+name: "Raigarh"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "raigarh"
+parent_state: "chhattisgarh"
+
+# === LOCATION ===
+pincode: [496001]
+

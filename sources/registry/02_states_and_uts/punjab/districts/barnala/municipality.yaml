@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-3-248378"
+name: "Barnala"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "barnala"
+parent_state: "punjab"
+
+# === LOCATION ===
+pincode: [148101]
+

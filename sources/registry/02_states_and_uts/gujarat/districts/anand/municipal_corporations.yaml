@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-24-251174"
+name: "Anand"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "anand"
+parent_state: "gujarat"
+
+# === LOCATION ===
+pincode: [388001]
+

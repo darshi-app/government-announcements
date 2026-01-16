@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-37-248178"
+name: "Kargil"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "kargil"
+parent_state: "ladakh"
+
+# === LOCATION ===
+pincode: [194101]
+

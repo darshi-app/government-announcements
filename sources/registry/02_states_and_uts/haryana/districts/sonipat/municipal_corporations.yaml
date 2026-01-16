@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248529"
+name: "Sonipat"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "sonipat"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [131001]
+

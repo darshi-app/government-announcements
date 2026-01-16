@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-36-248105"
+name: "Khammam"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "khammam"
+parent_state: "telangana"
+
+# === LOCATION ===
+pincode: [507001]
+

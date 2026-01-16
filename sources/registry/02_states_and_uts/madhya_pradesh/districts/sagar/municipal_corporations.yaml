@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-23-250764"
+name: "Sagar"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "sagar"
+parent_state: "madhya_pradesh"
+
+# === LOCATION ===
+pincode: [470001]
+

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-8-248667"
+name: "Bikaner"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "bikaner"
+parent_state: "rajasthan"
+
+# === LOCATION ===
+pincode: [334001]
+

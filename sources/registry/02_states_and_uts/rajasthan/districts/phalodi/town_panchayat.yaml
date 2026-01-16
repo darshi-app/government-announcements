@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-8-248759"
+name: "Phalodi"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "phalodi"
+parent_state: "rajasthan"
+
+# === LOCATION ===
+pincode: [328024, 328027, 342301, 313325]
+

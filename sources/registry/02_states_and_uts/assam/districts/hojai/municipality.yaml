@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-18-249870"
+name: "Hojai"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "hojai"
+parent_state: "assam"
+
+# === LOCATION ===
+pincode: [782435]
+

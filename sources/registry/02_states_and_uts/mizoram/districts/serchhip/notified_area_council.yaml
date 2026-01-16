@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-15-249776"
+name: "Serchhip"
+type: "notified_area_council"
+
+# === HIERARCHY ===
+parent_district: "serchhip"
+parent_state: "mizoram"
+
+# === LOCATION ===
+pincode: [796181]
+

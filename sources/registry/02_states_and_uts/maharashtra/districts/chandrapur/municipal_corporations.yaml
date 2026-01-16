@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-27-248082"
+name: "Chandrapur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "chandrapur"
+parent_state: "maharashtra"
+
+# === LOCATION ===
+pincode: [442402, 442401]
+

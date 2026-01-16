@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-33-252857"
+name: "Tirupathur"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "tirupathur"
+parent_state: "tamil_nadu"
+
+# === LOCATION ===
+pincode: [630211]
+

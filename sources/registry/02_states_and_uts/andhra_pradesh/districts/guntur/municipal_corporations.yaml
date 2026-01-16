@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-28-251757"
+name: "Guntur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "guntur"
+parent_state: "andhra_pradesh"
+
+# === LOCATION ===
+pincode: [522007, 522002, 522034, 522006, 522003, 522001, 522004]
+

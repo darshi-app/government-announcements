@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-23-250781"
+name: "Satna"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "satna"
+parent_state: "madhya_pradesh"
+
+# === LOCATION ===
+pincode: [485001]
+

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248586"
+name: "Palwal"
+type: "notified_area_council"
+
+# === HIERARCHY ===
+parent_district: "palwal"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [121102]
+

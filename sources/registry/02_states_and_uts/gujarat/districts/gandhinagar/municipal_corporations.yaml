@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-24-276440"
+name: "Gandhinagar"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "gandhinagar"
+parent_state: "gujarat"
+
+# === LOCATION ===
+pincode: [382010]
+

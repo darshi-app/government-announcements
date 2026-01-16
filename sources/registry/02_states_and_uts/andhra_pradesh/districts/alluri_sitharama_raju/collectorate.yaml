@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-28-alluri_sitharama_raju-coll"
+name: "Alluri Sitharama Raju District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "andhra_pradesh"
+reporting_to: "Revenue Department, Govt of Andhra Pradesh"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

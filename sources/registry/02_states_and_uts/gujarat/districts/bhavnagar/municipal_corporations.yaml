@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-24-251165"
+name: "Bhavnagar"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "bhavnagar"
+parent_state: "gujarat"
+
+# === LOCATION ===
+pincode: [364001]
+

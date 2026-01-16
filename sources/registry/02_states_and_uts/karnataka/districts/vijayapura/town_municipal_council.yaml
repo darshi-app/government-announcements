@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-29-251842"
+name: "Vijayapura"
+type: "town_municipal_council"
+
+# === HIERARCHY ===
+parent_district: "vijayapura"
+parent_state: "karnataka"
+
+# === LOCATION ===
+pincode: [586101]
+

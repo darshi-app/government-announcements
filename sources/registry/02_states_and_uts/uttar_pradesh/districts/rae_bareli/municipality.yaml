@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-249241"
+name: "Rae Bareli"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "rae_bareli"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [229001]
+

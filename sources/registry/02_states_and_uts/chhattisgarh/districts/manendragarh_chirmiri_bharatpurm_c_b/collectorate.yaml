@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-22-manendragarh_chirmiri_bharatpurm_c_b-coll"
+name: "Manendragarh-Chirmiri-Bharatpur(M C B) District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "chhattisgarh"
+reporting_to: "Revenue Department, Govt of Chhattisgarh"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

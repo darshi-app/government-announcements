@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-12-leparada-coll"
+name: "Leparada District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "arunachal_pradesh"
+reporting_to: "Revenue Department, Govt of Arunachal Pradesh"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

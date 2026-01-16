@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-22-248143"
+name: "Bastar"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "bastar"
+parent_state: "chhattisgarh"
+
+# === LOCATION ===
+pincode: [494223]
+

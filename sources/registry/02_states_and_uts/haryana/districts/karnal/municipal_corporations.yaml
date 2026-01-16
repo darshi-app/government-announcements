@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248517"
+name: "Karnal"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "karnal"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [132001]
+

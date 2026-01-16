@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-33-252957"
+name: "Ramanathapuram"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "ramanathapuram"
+parent_state: "tamil_nadu"
+
+# === LOCATION ===
+pincode: [623501]
+

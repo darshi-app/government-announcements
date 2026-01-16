@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-4-276386"
+name: "Chandigarh"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "chandigarh"
+parent_state: "chandigarh"
+
+# === LOCATION ===
+pincode: [160014, 160017, 160022, 160036, 160043, 160003, 160018, 160020, 160023, 160030, 160101, 160102, 160009, 160011, 160012, 160019, 160047, 160002, 160015, 160025]
+

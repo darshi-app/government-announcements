@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-248943"
+name: "Rampur"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "rampur"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [244901]
+

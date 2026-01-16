@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248491"
+name: "Ambala"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "ambala"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [133001]
+

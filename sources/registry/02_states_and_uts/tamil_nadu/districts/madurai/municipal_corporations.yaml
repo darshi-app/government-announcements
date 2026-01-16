@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-33-252889"
+name: "Madurai"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "madurai"
+parent_state: "tamil_nadu"
+
+# === LOCATION ===
+pincode: [625002]
+

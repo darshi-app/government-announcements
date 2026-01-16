@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-10-249630"
+name: "Bhagalpur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "bhagalpur"
+parent_state: "bihar"
+
+# === LOCATION ===
+pincode: [812001]
+

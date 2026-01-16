@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-249477"
+name: "Azamgarh"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "azamgarh"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [276001]
+

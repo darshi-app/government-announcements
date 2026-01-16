@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-19-249947"
+name: "Kalimpong"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "kalimpong"
+parent_state: "west_bengal"
+
+# === LOCATION ===
+pincode: [734301]
+

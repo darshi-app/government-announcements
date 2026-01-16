@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-24-251209"
+name: "Vadodara"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "vadodara"
+parent_state: "gujarat"
+
+# === LOCATION ===
+pincode: [390020, 390023, 390024, 390003, 390007, 390017, 390018, 390021, 390025, 390011, 391750, 391320, 390009, 390010, 390013, 390016, 390022, 391345, 390001, 390004, 390006, 390019, 390002, 390012, 390014]
+

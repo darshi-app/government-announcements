@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-21-259201"
+name: "Nuapada"
+type: "notified_area_council"
+
+# === HIERARCHY ===
+parent_district: "nuapada"
+parent_state: "odisha"
+
+# === LOCATION ===
+pincode: [766105]
+

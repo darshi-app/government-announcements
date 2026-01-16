@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-248964"
+name: "Meerut"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "meerut"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [250002]
+

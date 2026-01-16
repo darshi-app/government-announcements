@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-21-250491"
+name: "Kendrapara"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "kendrapara"
+parent_state: "odisha"
+
+# === LOCATION ===
+pincode: [754214, 754211, 754250]
+

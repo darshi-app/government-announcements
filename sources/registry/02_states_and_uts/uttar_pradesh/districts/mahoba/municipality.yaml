@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-249331"
+name: "Mahoba"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "mahoba"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [210427]
+

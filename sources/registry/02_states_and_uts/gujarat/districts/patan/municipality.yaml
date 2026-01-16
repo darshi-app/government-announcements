@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-24-251060"
+name: "Patan"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "patan"
+parent_state: "gujarat"
+
+# === LOCATION ===
+pincode: [384265, 384266]
+

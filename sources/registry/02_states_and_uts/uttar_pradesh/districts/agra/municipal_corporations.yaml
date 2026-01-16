@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-249062"
+name: "Agra"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "agra"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [282002, 282007, 282009, 282004, 282006, 282003, 282010, 282008]
+

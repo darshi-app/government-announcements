@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-2-248219"
+name: "Kullu"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "kullu"
+parent_state: "himachal_pradesh"
+
+# === LOCATION ===
+pincode: [175101]
+

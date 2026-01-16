@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-5-248430"
+name: "Dehradun"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "dehradun"
+parent_state: "uttarakhand"
+
+# === LOCATION ===
+pincode: [248001, 248121, 248003, 248019]
+

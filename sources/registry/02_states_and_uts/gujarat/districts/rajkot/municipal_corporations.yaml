@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-24-251120"
+name: "Rajkot"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "rajkot"
+parent_state: "gujarat"
+
+# === LOCATION ===
+pincode: [360006, 360005, 360004, 360002, 360007, 360001, 360003]
+

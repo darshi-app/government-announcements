@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-33-252518"
+name: "Namakkal"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "namakkal"
+parent_state: "tamil_nadu"
+
+# === LOCATION ===
+pincode: [637001]
+

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-27-251312"
+name: "Akola"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "akola"
+parent_state: "maharashtra"
+
+# === LOCATION ===
+pincode: [444001]
+

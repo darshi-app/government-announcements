@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-3-248256"
+name: "Pathankot"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "pathankot"
+parent_state: "punjab"
+
+# === LOCATION ===
+pincode: [143528]
+

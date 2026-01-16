@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-248973"
+name: "Baghpat"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "baghpat"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [250609]
+

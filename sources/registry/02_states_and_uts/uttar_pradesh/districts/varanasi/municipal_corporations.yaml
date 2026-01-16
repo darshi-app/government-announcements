@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-249531"
+name: "Varanasi"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "varanasi"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [221004, 221001, 221103, 221007, 221003, 221010, 221106, 221005, 221012, 221008]
+

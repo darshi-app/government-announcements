@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-249369"
+name: "Prayagraj"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "prayagraj"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [211017, 212212, 211015, 211011, 212208, 211001, 211002, 211016, 211003, 211004]
+

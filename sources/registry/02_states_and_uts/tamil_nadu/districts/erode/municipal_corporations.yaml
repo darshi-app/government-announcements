@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-33-252568"
+name: "Erode"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "erode"
+parent_state: "tamil_nadu"
+
+# === LOCATION ===
+pincode: [638003, 638001]
+

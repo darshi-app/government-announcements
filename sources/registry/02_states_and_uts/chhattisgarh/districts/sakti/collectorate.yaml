@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-22-sakti-coll"
+name: "Sakti District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "chhattisgarh"
+reporting_to: "Revenue Department, Govt of Chhattisgarh"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

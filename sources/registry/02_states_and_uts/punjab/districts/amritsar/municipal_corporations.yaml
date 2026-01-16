@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-3-248273"
+name: "Amritsar"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "amritsar"
+parent_state: "punjab"
+
+# === LOCATION ===
+pincode: [143001]
+

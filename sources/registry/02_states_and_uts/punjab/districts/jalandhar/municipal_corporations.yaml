@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-3-248296"
+name: "Jalandhar"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "jalandhar"
+parent_state: "punjab"
+
+# === LOCATION ===
+pincode: [144027, 144001, 144005, 144008]
+

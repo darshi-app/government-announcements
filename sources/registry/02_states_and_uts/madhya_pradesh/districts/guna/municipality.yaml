@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-23-250714"
+name: "Guna"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "guna"
+parent_state: "madhya_pradesh"
+
+# === LOCATION ===
+pincode: [473001]
+

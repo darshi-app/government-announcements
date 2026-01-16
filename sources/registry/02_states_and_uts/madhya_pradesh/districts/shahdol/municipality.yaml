@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-23-250807"
+name: "Shahdol"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "shahdol"
+parent_state: "madhya_pradesh"
+
+# === LOCATION ===
+pincode: [484001]
+

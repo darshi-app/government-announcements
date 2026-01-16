@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-29-251934"
+name: "Chitradurga"
+type: "city_municipal_council"
+
+# === HIERARCHY ===
+parent_district: "chitradurga"
+parent_state: "karnataka"
+
+# === LOCATION ===
+pincode: [577501]
+

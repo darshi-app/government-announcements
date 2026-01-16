@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248564"
+name: "Mahendragarh"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "mahendragarh"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [123029]
+

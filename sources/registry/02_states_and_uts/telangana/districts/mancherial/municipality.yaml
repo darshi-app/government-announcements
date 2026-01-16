@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-36-248087"
+name: "Mancherial"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "mancherial"
+parent_state: "telangana"
+
+# === LOCATION ===
+pincode: [504208]
+

@@ -1,0 +1,9 @@
+# === IDENTITY ===
+id: "state-tripura"
+name: "Tripura"
+type: "state_government"
+
+# === HIERARCHY ===
+parent_union: "india"
+capital: ""
+

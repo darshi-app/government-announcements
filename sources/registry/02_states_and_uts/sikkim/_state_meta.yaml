@@ -1,0 +1,9 @@
+# === IDENTITY ===
+id: "state-sikkim"
+name: "Sikkim"
+type: "state_government"
+
+# === HIERARCHY ===
+parent_union: "india"
+capital: ""
+

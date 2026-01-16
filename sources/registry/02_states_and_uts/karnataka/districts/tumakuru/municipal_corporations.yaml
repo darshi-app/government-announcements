@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-29-251973"
+name: "Tumakuru"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "tumakuru"
+parent_state: "karnataka"
+
+# === LOCATION ===
+pincode: [572102, 572101]
+

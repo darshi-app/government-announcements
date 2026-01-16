@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-8-248656"
+name: "Anupgarh"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "anupgarh"
+parent_state: "rajasthan"
+
+# === LOCATION ===
+pincode: [313325, 328024, 335701, 328027]
+

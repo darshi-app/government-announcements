@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-2-248244"
+name: "Solan"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "solan"
+parent_state: "himachal_pradesh"
+
+# === LOCATION ===
+pincode: [173212]
+

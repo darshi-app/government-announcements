@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-24-anand-coll"
+name: "Anand District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "gujarat"
+reporting_to: "Revenue Department, Govt of Gujarat"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-29-252005"
+name: "Mandya"
+type: "city_municipal_council"
+
+# === HIERARCHY ===
+parent_district: "mandya"
+parent_state: "karnataka"
+
+# === LOCATION ===
+pincode: [571401]
+

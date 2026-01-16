@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-31-lakshadweep_district-coll"
+name: "Lakshadweep District District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "lakshadweep"
+reporting_to: "Revenue Department, Govt of Lakshadweep"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

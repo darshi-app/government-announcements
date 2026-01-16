@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-3-248399"
+name: "Patiala"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "patiala"
+parent_state: "punjab"
+
+# === LOCATION ===
+pincode: [147001]
+

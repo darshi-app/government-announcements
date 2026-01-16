@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248489"
+name: "Panchkula"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "panchkula"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [134109]
+

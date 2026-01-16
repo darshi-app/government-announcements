@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-36-251653"
+name: "Karimnagar"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "karimnagar"
+parent_state: "telangana"
+
+# === LOCATION ===
+pincode: [505001]
+

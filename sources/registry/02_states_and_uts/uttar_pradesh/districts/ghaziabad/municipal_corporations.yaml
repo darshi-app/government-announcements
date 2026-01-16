@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-248988"
+name: "Ghaziabad"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "ghaziabad"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [201001]
+

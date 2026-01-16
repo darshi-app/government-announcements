@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-13-niuland-coll"
+name: "Niuland District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "nagaland"
+reporting_to: "Revenue Department, Govt of Nagaland"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

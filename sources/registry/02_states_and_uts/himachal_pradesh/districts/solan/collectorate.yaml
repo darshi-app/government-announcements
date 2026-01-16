@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-2-solan-coll"
+name: "Solan District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "himachal_pradesh"
+reporting_to: "Revenue Department, Govt of Himachal Pradesh"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

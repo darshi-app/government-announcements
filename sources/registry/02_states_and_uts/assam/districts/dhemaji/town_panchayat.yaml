@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-18-249883"
+name: "Dhemaji"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "dhemaji"
+parent_state: "assam"
+
+# === LOCATION ===
+pincode: [787057]
+

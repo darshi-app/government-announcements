@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248569"
+name: "Rewari"
+type: "notified_area_council"
+
+# === HIERARCHY ===
+parent_district: "rewari"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [123303, 123103, 123401]
+

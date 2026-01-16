@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-19-kolkata-coll"
+name: "Kolkata District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "west_bengal"
+reporting_to: "Revenue Department, Govt of West Bengal"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

@@ -1,0 +1,9 @@
+# === IDENTITY ===
+id: "state-goa"
+name: "Goa"
+type: "state_government"
+
+# === HIERARCHY ===
+parent_union: "india"
+capital: ""
+

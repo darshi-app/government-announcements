@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-249183"
+name: "Kheri"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "kheri"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [262702]
+

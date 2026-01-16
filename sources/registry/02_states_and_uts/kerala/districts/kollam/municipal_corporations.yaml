@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-32-252255"
+name: "Kollam"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "kollam"
+parent_state: "kerala"
+
+# === LOCATION ===
+pincode: [691002, 691005, 691003, 691010, 691015, 691013, 691601, 691001, 682001, 691004, 691012, 691021]
+

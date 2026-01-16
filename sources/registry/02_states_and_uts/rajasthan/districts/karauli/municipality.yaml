@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-8-248717"
+name: "Karauli"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "karauli"
+parent_state: "rajasthan"
+
+# === LOCATION ===
+pincode: [322241, 313203, 305921]
+

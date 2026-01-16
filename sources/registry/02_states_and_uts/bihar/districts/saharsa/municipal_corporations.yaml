@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-10-249599"
+name: "Saharsa"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "saharsa"
+parent_state: "bihar"
+
+# === LOCATION ===
+pincode: [852201]
+

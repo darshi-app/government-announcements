@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-8-248793"
+name: "Kekri"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "kekri"
+parent_state: "rajasthan"
+
+# === LOCATION ===
+pincode: [328027, 313325, 305404, 328024]
+

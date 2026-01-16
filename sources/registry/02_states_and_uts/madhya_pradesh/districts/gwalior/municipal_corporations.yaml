@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-23-250694"
+name: "Gwalior"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "gwalior"
+parent_state: "madhya_pradesh"
+
+# === LOCATION ===
+pincode: [474006, 474004, 474003, 474002, 474020, 474008, 474007, 474001, 474011, 474005, 474015, 474012, 474010, 474009]
+

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-21-250538"
+name: "Ganjam"
+type: "notified_area_council"
+
+# === HIERARCHY ===
+parent_district: "ganjam"
+parent_state: "odisha"
+
+# === LOCATION ===
+pincode: [761026]
+

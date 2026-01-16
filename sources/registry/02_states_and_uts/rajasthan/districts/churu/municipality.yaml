@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-8-248673"
+name: "Churu"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "churu"
+parent_state: "rajasthan"
+
+# === LOCATION ===
+pincode: [313203, 331001, 305921]
+

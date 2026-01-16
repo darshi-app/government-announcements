@@ -1,0 +1,9 @@
+# === IDENTITY ===
+id: "state-karnataka"
+name: "Karnataka"
+type: "state_government"
+
+# === HIERARCHY ===
+parent_union: "india"
+capital: ""
+

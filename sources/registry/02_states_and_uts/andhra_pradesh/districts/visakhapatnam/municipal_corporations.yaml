@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-28-251719"
+name: "Visakhapatnam"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "visakhapatnam"
+parent_state: "andhra_pradesh"
+
+# === LOCATION ===
+pincode: [530002]
+

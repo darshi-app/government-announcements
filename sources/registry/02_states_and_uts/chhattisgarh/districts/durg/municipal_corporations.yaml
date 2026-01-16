@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-22-250640"
+name: "Durg"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "durg"
+parent_state: "chhattisgarh"
+
+# === LOCATION ===
+pincode: [491001, 490022]
+

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248585"
+name: "Faridabad"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "faridabad"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [121005, 121001, 121002, 121006, 121003, 121004]
+

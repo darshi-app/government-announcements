@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-10-301296"
+name: "ROHTAS"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "rohtas"
+parent_state: "bihar"
+
+# === LOCATION ===
+pincode: [821311]
+

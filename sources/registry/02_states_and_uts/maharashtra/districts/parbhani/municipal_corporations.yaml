@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-27-251416"
+name: "Parbhani"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "parbhani"
+parent_state: "maharashtra"
+
+# === LOCATION ===
+pincode: [431401]
+

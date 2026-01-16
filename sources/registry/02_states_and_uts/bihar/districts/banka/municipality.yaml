@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-10-249633"
+name: "Banka"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "banka"
+parent_state: "bihar"
+
+# === LOCATION ===
+pincode: [813102]
+

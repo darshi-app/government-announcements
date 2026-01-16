@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-2-248225"
+name: "Mandi"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "mandi"
+parent_state: "himachal_pradesh"
+
+# === LOCATION ===
+pincode: [175001]
+

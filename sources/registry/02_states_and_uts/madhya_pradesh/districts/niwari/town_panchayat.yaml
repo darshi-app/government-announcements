@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-23-290382"
+name: "Niwari"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "niwari"
+parent_state: "madhya_pradesh"
+
+# === LOCATION ===
+pincode: [472442, 481776]
+

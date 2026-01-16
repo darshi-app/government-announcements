@@ -1,0 +1,9 @@
+# === IDENTITY ===
+id: "state-arunachal_pradesh"
+name: "Arunachal Pradesh"
+type: "state_government"
+
+# === HIERARCHY ===
+parent_union: "india"
+capital: ""
+

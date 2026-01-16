@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-22-248062"
+name: "Dhamtari"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "dhamtari"
+parent_state: "chhattisgarh"
+
+# === LOCATION ===
+pincode: [493773]
+

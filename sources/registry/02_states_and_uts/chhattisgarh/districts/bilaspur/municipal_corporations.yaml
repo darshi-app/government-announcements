@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-22-250616"
+name: "Bilaspur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "bilaspur"
+parent_state: "chhattisgarh"
+
+# === LOCATION ===
+pincode: [495001]
+

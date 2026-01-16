@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-19-249956"
+name: "Jalpaiguri"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "jalpaiguri"
+parent_state: "west_bengal"
+
+# === LOCATION ===
+pincode: [735101]
+

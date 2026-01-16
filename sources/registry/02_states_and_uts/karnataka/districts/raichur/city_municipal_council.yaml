@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-29-251876"
+name: "Raichur"
+type: "city_municipal_council"
+
+# === HIERARCHY ===
+parent_district: "raichur"
+parent_state: "karnataka"
+
+# === LOCATION ===
+pincode: [584101]
+

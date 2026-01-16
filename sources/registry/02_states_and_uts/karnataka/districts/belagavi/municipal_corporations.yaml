@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-29-251824"
+name: "Belagavi"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "belagavi"
+parent_state: "karnataka"
+
+# === LOCATION ===
+pincode: [590016]
+

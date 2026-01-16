@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-248873"
+name: "Saharanpur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "saharanpur"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [247001]
+

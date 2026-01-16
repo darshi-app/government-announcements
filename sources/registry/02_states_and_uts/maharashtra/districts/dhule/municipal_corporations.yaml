@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-27-251282"
+name: "Dhule"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "dhule"
+parent_state: "maharashtra"
+
+# === LOCATION ===
+pincode: [424001, 424002]
+

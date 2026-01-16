@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-23-250797"
+name: "Rewa"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "rewa"
+parent_state: "madhya_pradesh"
+
+# === LOCATION ===
+pincode: [486001]
+

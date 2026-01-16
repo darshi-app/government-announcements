@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-19-250215"
+name: "Purulia"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "purulia"
+parent_state: "west_bengal"
+
+# === LOCATION ===
+pincode: [723101]
+

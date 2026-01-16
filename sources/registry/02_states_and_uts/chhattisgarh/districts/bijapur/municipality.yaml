@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-22-253244"
+name: "Bijapur"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "bijapur"
+parent_state: "chhattisgarh"
+
+# === LOCATION ===
+pincode: [494444]
+

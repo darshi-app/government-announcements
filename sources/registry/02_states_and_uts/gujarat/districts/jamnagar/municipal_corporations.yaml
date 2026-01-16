@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-24-251133"
+name: "Jamnagar"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "jamnagar"
+parent_state: "gujarat"
+
+# === LOCATION ===
+pincode: [361001, 361002]
+

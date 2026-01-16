@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-23-250995"
+name: "Jabalpur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "jabalpur"
+parent_state: "madhya_pradesh"
+
+# === LOCATION ===
+pincode: [482001]
+

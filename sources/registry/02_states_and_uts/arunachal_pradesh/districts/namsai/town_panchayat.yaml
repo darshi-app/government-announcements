@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-12-249710"
+name: "Namsai"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "namsai"
+parent_state: "arunachal_pradesh"
+
+# === LOCATION ===
+pincode: [792103]
+

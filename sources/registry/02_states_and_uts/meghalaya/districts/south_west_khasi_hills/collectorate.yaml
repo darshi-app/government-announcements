@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-17-south_west_khasi_hills-coll"
+name: "South West Khasi Hills District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "meghalaya"
+reporting_to: "Revenue Department, Govt of Meghalaya"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

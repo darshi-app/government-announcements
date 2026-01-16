@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-10-249579"
+name: "Madhubani"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "madhubani"
+parent_state: "bihar"
+
+# === LOCATION ===
+pincode: [847211]
+

@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-1-kathua-coll"
+name: "Kathua District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "jammu_and_kashmir"
+reporting_to: "Revenue Department, Govt of Jammu And Kashmir"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

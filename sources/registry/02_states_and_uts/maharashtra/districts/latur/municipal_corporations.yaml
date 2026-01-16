@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-27-251561"
+name: "Latur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "latur"
+parent_state: "maharashtra"
+
+# === LOCATION ===
+pincode: [413512]
+

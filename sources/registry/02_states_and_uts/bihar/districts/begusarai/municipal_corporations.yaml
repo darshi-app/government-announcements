@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-10-249624"
+name: "Begusarai"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "begusarai"
+parent_state: "bihar"
+
+# === LOCATION ===
+pincode: [851101]
+

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-3-248308"
+name: "Hoshiarpur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "hoshiarpur"
+parent_state: "punjab"
+
+# === LOCATION ===
+pincode: [248303]
+

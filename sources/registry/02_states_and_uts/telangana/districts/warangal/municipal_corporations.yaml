@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-36-251691"
+name: "Warangal"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "warangal"
+parent_state: "telangana"
+
+# === LOCATION ===
+pincode: [506013, 506001, 506007, 506002]
+

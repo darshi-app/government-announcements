@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248521"
+name: "Panipat"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "panipat"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [132103]
+

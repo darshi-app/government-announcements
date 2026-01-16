@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-3-248319"
+name: "Rupnagar"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "rupnagar"
+parent_state: "punjab"
+
+# === LOCATION ===
+pincode: [140001]
+

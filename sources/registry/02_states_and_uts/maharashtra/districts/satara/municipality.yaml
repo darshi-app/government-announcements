@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-27-251593"
+name: "Satara"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "satara"
+parent_state: "maharashtra"
+
+# === LOCATION ===
+pincode: [415001]
+

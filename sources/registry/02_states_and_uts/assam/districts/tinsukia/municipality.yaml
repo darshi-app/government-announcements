@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-18-249888"
+name: "Tinsukia"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "tinsukia"
+parent_state: "assam"
+
+# === LOCATION ===
+pincode: [786125]
+

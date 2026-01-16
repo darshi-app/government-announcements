@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-32-252194"
+name: "Thrissur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "thrissur"
+parent_state: "kerala"
+
+# === LOCATION ===
+pincode: [682001, 680021]
+

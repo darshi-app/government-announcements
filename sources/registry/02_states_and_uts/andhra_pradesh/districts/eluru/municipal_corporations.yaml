@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-28-251739"
+name: "Eluru"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "eluru"
+parent_state: "andhra_pradesh"
+
+# === LOCATION ===
+pincode: [534002, 534005, 534001, 534007, 534006]
+

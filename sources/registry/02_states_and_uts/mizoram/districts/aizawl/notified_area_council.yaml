@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-15-249770"
+name: "Aizawl"
+type: "notified_area_council"
+
+# === HIERARCHY ===
+parent_district: "aizawl"
+parent_state: "mizoram"
+
+# === LOCATION ===
+pincode: [796001]
+

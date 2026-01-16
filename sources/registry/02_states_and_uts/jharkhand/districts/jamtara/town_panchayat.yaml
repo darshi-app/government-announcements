@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-20-248134"
+name: "Jamtara"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "jamtara"
+parent_state: "jharkhand"
+
+# === LOCATION ===
+pincode: [814112, 815351]
+

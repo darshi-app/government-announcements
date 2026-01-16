@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-33-252943"
+name: "Virudhunagar"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "virudhunagar"
+parent_state: "tamil_nadu"
+
+# === LOCATION ===
+pincode: [626001]
+

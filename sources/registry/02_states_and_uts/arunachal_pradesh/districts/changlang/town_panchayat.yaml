@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-12-249711"
+name: "Changlang"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "changlang"
+parent_state: "arunachal_pradesh"
+
+# === LOCATION ===
+pincode: [792120]
+

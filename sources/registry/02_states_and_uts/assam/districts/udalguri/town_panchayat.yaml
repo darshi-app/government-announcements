@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-18-249862"
+name: "Udalguri"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "udalguri"
+parent_state: "assam"
+
+# === LOCATION ===
+pincode: [784509]
+

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-249314"
+name: "Jhansi"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "jhansi"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [284001]
+

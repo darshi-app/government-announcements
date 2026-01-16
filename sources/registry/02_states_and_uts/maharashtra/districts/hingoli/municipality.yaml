@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-27-251411"
+name: "Hingoli"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "hingoli"
+parent_state: "maharashtra"
+
+# === LOCATION ===
+pincode: [431513]
+

@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-19-250247"
+name: "Howrah"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "howrah"
+parent_state: "west_bengal"
+
+# === LOCATION ===
+pincode: [711103, 711114, 711107, 711104, 711113, 711112, 711111, 711108, 711105, 711109, 711110, 711106, 711302, 711102, 711101]
+

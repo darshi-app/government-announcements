@@ -1,0 +1,9 @@
+# === IDENTITY ===
+id: "state-chhattisgarh"
+name: "Chhattisgarh"
+type: "state_government"
+
+# === HIERARCHY ===
+parent_union: "india"
+capital: ""
+

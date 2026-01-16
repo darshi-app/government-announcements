@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248541"
+name: "Sirsa"
+type: "notified_area_council"
+
+# === HIERARCHY ===
+parent_district: "sirsa"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [125055]
+

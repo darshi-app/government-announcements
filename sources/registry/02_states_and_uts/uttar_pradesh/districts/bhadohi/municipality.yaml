@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-249535"
+name: "Bhadohi"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "bhadohi"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [221401]
+

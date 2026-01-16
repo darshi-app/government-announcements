@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-21-250514"
+name: "Khordha"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "khordha"
+parent_state: "odisha"
+
+# === LOCATION ===
+pincode: [752055]
+

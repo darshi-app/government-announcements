@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-249250"
+name: "Farrukhabad"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "farrukhabad"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [209625]
+

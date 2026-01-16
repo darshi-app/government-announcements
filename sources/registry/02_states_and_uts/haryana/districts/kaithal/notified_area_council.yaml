@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-6-248511"
+name: "Kaithal"
+type: "notified_area_council"
+
+# === HIERARCHY ===
+parent_district: "kaithal"
+parent_state: "haryana"
+
+# === LOCATION ===
+pincode: [136027]
+

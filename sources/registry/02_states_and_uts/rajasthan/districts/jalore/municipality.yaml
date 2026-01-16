@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-8-248767"
+name: "Jalore"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "jalore"
+parent_state: "rajasthan"
+
+# === LOCATION ===
+pincode: [343001, 305921, 313203]
+

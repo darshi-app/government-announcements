@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-22-250653"
+name: "Raipur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "raipur"
+parent_state: "chhattisgarh"
+
+# === LOCATION ===
+pincode: [492001]
+

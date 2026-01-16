@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-23-250947"
+name: "Sehore"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "sehore"
+parent_state: "madhya_pradesh"
+
+# === LOCATION ===
+pincode: [466001]
+

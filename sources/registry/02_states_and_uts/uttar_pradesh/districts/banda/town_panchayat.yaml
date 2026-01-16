@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-9-297057"
+name: "Banda"
+type: "town_panchayat"
+
+# === HIERARCHY ===
+parent_district: "banda"
+parent_state: "uttar_pradesh"
+
+# === LOCATION ===
+pincode: [210001, 242042]
+

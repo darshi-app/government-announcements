@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-29-251927"
+name: "Ballari"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "ballari"
+parent_state: "karnataka"
+
+# === LOCATION ===
+pincode: [583101]
+

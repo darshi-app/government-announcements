@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-32-252125"
+name: "Kannur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "kannur"
+parent_state: "kerala"
+
+# === LOCATION ===
+pincode: [670001, 670012, 682001, 670004, 670594, 670002, 670003, 670006]
+

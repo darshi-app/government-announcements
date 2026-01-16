@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-38-diu-coll"
+name: "Diu District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "the_dadra_and_nagar_haveli_and_daman_and_diu"
+reporting_to: "Revenue Department, Govt of The Dadra And Nagar Haveli And Daman And Diu"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

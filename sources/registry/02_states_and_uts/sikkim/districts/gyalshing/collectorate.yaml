@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-11-gyalshing-coll"
+name: "Gyalshing District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "sikkim"
+reporting_to: "Revenue Department, Govt of Sikkim"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

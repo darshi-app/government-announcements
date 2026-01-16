@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "dist-34-yanam-coll"
+name: "Yanam District Collectorate"
+type: "district_administration"
+jurisdiction_level: "district"
+
+# === HIERARCHY ===
+parent_state: "puducherry"
+reporting_to: "Revenue Department, Govt of Puducherry"
+
+# === SCRAPING CONFIG ===
+url: "" # Placeholder
+sections_to_watch:
+  - title: "Notices/Announcements"
+    url: ""
+    urgency_default: "normal"

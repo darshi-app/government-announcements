@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-27-251625"
+name: "Kolhapur"
+type: "municipal_corporations"
+
+# === HIERARCHY ===
+parent_district: "kolhapur"
+parent_state: "maharashtra"
+
+# === LOCATION ===
+pincode: [416001, 416003, 416006, 416012, 416007]
+

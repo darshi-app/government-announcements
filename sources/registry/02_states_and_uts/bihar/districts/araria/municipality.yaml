@@ -1,0 +1,12 @@
+# === IDENTITY ===
+id: "ulb-10-249587"
+name: "Araria"
+type: "municipality"
+
+# === HIERARCHY ===
+parent_district: "araria"
+parent_state: "bihar"
+
+# === LOCATION ===
+pincode: [854311]
+
